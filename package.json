@@ -1,0 +1,21 @@
+{
+    "name": "coatsdigitaldarktheme",
+    "displayName": "CoatsDigitalDarkTheme",
+    "description": "Coats Digital Dark Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coats Digital Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coats Digital Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
